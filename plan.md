@@ -13,14 +13,15 @@ CESAMIEN est une application communautaire destinée aux étudiants de toutes na
 3. [La solution](#3-la-solution)
 4. [Le guide de l'étudiant](#4-le-guide-de-létudiant)
 5. [La dimension communautaire](#5-la-dimension-communautaire)
-6. [Le profil étudiant](#6-le-profil-étudiant)
-7. [Découvrir des étudiants](#7-découvrir-des-étudiants)
-8. [Chat entre étudiants](#8-chat-entre-étudiants)
-9. [Événements et informations](#9-événements-et-informations)
-10. [Assistant IA : C-BRAIN](#10-assistant-ia-c-brain)
-11. [Personnalisation](#11-personnalisation)
-12. [Notifications](#12-notifications)
-13. [Avantages pour la CESAM](#13-avantages-pour-la-cesam)
+6. [Marketplace étudiant](#6-marketplace-étudiant)
+7. [Le profil étudiant](#7-le-profil-étudiant)
+8. [Découvrir des étudiants](#8-découvrir-des-étudiants)
+9. [Chat entre étudiants](#9-chat-entre-étudiants)
+10. [Événements et informations](#10-événements-et-informations)
+11. [Assistant IA : C-BRAIN](#11-assistant-ia-c-brain)
+12. [Personnalisation](#12-personnalisation)
+13. [Notifications](#13-notifications)
+14. [Avantages pour la CESAM](#14-avantages-pour-la-cesam)
 
 ## 1. Présentation du projet
 
@@ -34,12 +35,12 @@ L'intégration dans un nouveau pays ou une nouvelle ville peut être difficile. 
 
 - Où effectuer mes démarches administratives ?
 - Quels documents dois-je préparer ?
-- Où trouver une pharmacie ou un centre de santé ?
+- Comment etablir un certificat médical dans ma ville?
+- Existe-t-il des communauté étudiantes dans ma ville ?
 - Comment me rendre à mon établissement ?
-- Quels moyens de transport sont disponibles ?
-- Où trouver certains produits ou services ?
 - Quels événements étudiants ont lieu dans ma ville ?
-- Existe-t-il une communauté d'étudiants de mon établissement ?
+- Comment trouver à prix abordable du matériel   ou des meubles pour s'équiper ?
+- Comment vendre, donner ou échanger des affaires dont on n'a plus besoin ?
 - Comment rencontrer d'autres étudiants ?
 - Où trouver des informations sur les concours ?
 - À qui demander de l'aide lorsqu'on ne connaît encore personne ?
@@ -48,12 +49,13 @@ Le problème n'est pas toujours l'absence d'information, mais la difficulté à 
 
 ## 3. La solution
 
-CESAMIEN réunit quatre éléments dans une seule application :
+CESAMIEN réunit cinq éléments dans une seule application :
 
 1. Un flux d'informations, d'événements et d'activités
 2. Un guide local
 3. Des communautés et des profils étudiants
-4. Un assistant IA pour répondre aux questions des étudiants
+4. Un Marketplace étudiant pour acheter, vendre, donner ou échanger
+5. Un assistant IA pour répondre aux questions des étudiants
 
 L'application s'adapte à la ville de l'étudiant et lui permet d'accéder rapidement aux informations et aux communautés qui lui sont réellement utiles.
 
@@ -118,7 +120,40 @@ L'étudiant peut :
 - participer à ses activités ;
 - échanger avec d'autres étudiants.
 
-## 6. Profil étudiant
+## 6. Marketplace étudiant
+
+CESAMIEN intègre un **Marketplace étudiant** permettant aux étudiants d'acheter, de vendre, de donner ou d'échanger des produits et des services directement entre eux. Cet espace de confiance est pensé pour les besoins de la vie étudiante, notamment pour aider les étudiants qui arrivent dans une nouvelle ville à s'équiper.
+
+### Produits et annonces
+
+Les étudiants peuvent publier des annonces concernant :
+
+- les livres et manuels universitaires ;
+- les ordinateurs et accessoires informatiques ;
+- les téléphones et accessoires ;
+- les vêtements ;
+- les meubles et équipements pour le logement ;
+- les fournitures scolaires ;
+- les équipements sportifs ;
+- les produits du quotidien ;
+- les services proposés par des étudiants.
+
+Une annonce peut préciser le prix, l'état du produit et sa localisation, et inclure des photos. Les étudiants peuvent consulter les annonces disponibles dans leur ville, contacter le vendeur via la messagerie intégrée et convenir directement des modalités de l'échange.
+
+Le Marketplace peut mettre en avant les annonces à proximité afin de faciliter les transactions entre étudiants d'une même ville ou d'un même établissement.
+
+### Donner, échanger ou rechercher
+
+Le Marketplace ne se limite pas à la vente. Un étudiant peut également :
+
+- donner gratuitement un objet dont il n'a plus besoin ;
+- proposer un échange contre un autre produit ;
+- rechercher un objet précis ;
+- publier une demande pour signaler un produit recherché.
+
+Ce service peut notamment aider les étudiants qui quittent une ville ou terminent leurs études à transmettre leurs affaires à d'autres étudiants.
+
+## 7. Profil étudiant
 
 Chaque étudiant possède un profil qui peut contenir les informations suivantes :
 
@@ -131,7 +166,7 @@ Chaque étudiant possède un profil qui peut contenir les informations suivantes
 
 L'objectif n'est pas de créer un réseau social généraliste. Le profil sert principalement à faciliter la découverte de personnes ayant un environnement étudiant similaire. Par exemple, un étudiant nouvellement arrivé à Agadir peut découvrir d'autres étudiants de son établissement ou partageant ses centres d'intérêt.
 
-## 7. Découvrir des étudiants
+## 8. Découvrir des étudiants
 
 CESAMIEN peut proposer des étudiants présentant des profils similaires, en fonction de critères tels que :
 
@@ -142,11 +177,11 @@ CESAMIEN peut proposer des étudiants présentant des profils similaires, en fon
 
 L'étudiant peut ensuite entrer en contact avec eux.
 
-## 8. Chat entre étudiants
+## 9. Chat entre étudiants
 
 L'application intègre une messagerie permettant aux étudiants d'échanger directement.
 
-## 9. Événements et informations
+## 10. Événements et informations
 
 La page d'accueil devient le centre d'information de l'étudiant. Elle rassemble les événements provenant :
 
@@ -163,7 +198,7 @@ Les contenus peuvent inclure :
 
 L'étudiant reçoit uniquement les informations pertinentes pour son profil et ses communautés.
 
-## 10. Assistant IA : C-BRAIN
+## 11. Assistant IA : C-BRAIN
 
 C-BRAIN utilise comme base de connaissances les guides et les informations validés dans CESAMIEN. L'étudiant peut, par exemple, lui demander :
 
@@ -174,7 +209,7 @@ C-BRAIN utilise comme base de connaissances les guides et les informations valid
 - « Quels événements sont prévus cette semaine ? »
 - « Comment puis-je rejoindre une communauté ? »
 
-## 11. Personnalisation
+## 12. Personnalisation
 
 Lors de son inscription, l'étudiant renseigne notamment :
 
@@ -192,7 +227,7 @@ CESAMIEN utilise ces informations pour personnaliser l'expérience. Par exemple,
 - les profils d'étudiants similaires ;
 - les informations correspondant à son profil.
 
-## 12. Notifications
+## 13. Notifications
 
 L'étudiant reçoit des notifications pertinentes :
 
@@ -205,7 +240,7 @@ L'étudiant reçoit des notifications pertinentes :
 
 L'objectif est d'éviter le bruit et les notifications inutiles.
 
-## 13. Avantages pour la CESAM
+## 14. Avantages pour la CESAM
 
 CESAMIEN peut également aider la CESAM à :
 
