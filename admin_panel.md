@@ -1,34 +1,35 @@
 
-### SITE WEB DESTINES AUX ADMINISTRATEURS
+# Espace d'administration CESAMIEN
 
-CESAMIEN possède plusieurs niveaux de gestion.
+Le site web de CESAMIEN prévoit plusieurs niveaux de gestion, selon le rôle de chaque administrateur.
 
-
-> 1. CESAM CENTRALE
+## 1. CESAM Centrale
 
 La CESAM Centrale peut :
 
-* publier des événements global a tout le monde peut importe la ville ;
-* publier des annonces importantes ;
-* gérer les communautés ;
-* gérer les utilisateurs ;
-* gérer les contenus ;
-* superviser les guides.
+- publier des événements destinés à tous les étudiants, quelle que soit leur ville ;
+- publier des annonces importantes ;
+- gérer les communautés ;
+- gérer les utilisateurs ;
+- gérer les contenus ;
+- superviser les guides.
 
-> 2. CESAM DE LA VILLE
+## 2. CESAM locale
 
-Chaque cesam locale peut :
+Chaque CESAM locale peut :
 
-* publier des événements ;
-* publier des annonces ;
-* gérer le guide de sa ville ;
-* ajouter ou modifier des informations locales ;
-* gérer les communautés locales.
+- publier des événements ;
+- publier des annonces ;
+- gérer le guide de sa ville ;
+- ajouter ou modifier des informations locales ;
+- gérer les communautés locales.
 
-> 3. RESPONSABLE DE COMMUNAUTÉ
+## 3. Responsable de communauté
 
-* creer une communauté ;
-* publier des événements ;
-* publier des annonces ;
-* gérer sa présentation ;
-* gérer ses membres ;
+Un responsable de communauté peut :
+
+- créer une communauté ;
+- publier des événements ;
+- publier des annonces ;
+- gérer la présentation de sa communauté ;
+- gérer ses membres.
